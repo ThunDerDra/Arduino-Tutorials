@@ -53,9 +53,4 @@ void loop() {
     analogWrite(ledpin, brightness);
     }
   }
-
-
-
-
-
 }
